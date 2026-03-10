@@ -159,12 +159,3 @@ Jikan API
 https://jikan.moe
 
 ---
-
-# Next Steps
-
-1. Implement API data collection
-2. Clean and preprocess dataset
-3. Develop ranking algorithm
-4. Perform statistical analysis
-5. Create visualizations
-6. Generate final report
