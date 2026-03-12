@@ -1,0 +1,369 @@
+[
+    {
+        "title": "Shingeki no Kyojin: The Final Season",
+        "score": 8.78,
+        "members": 2260937,
+        "favorites": 53905,
+        "episodes": 16,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Drama",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Horimiya",
+        "score": 8.18,
+        "members": 1612067,
+        "favorites": 39553,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Romance"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "score": 8.33,
+        "members": 1550453,
+        "favorites": 39056,
+        "episodes": 11,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Dr. Stone: Stone Wars",
+        "score": 8.15,
+        "members": 1189379,
+        "favorites": 7568,
+        "episodes": 11,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Tensei shitara Slime Datta Ken 2nd Season",
+        "score": 8.34,
+        "members": 1098235,
+        "favorites": 10990,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+        "score": 8.42,
+        "members": 1052283,
+        "favorites": 13342,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Yakusoku no Neverland 2nd Season",
+        "score": 5.24,
+        "members": 994048,
+        "favorites": 4510,
+        "episodes": 11,
+        "status": "Finished Airing",
+        "genres": [
+            "Mystery",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Wonder Egg Priority",
+        "score": 7.54,
+        "members": 827498,
+        "favorites": 9401,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama",
+            "Supernatural",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "5-toubun no Hanayome \u222c",
+        "score": 8,
+        "members": 803750,
+        "favorites": 11828,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Kaifuku Jutsushi no Yarinaoshi",
+        "score": 6.31,
+        "members": 638913,
+        "favorites": 6592,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Erotica"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "SK\u221e",
+        "score": 8,
+        "members": 626068,
+        "favorites": 13809,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Sports"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Kumo desu ga, Nani ka?",
+        "score": 7.44,
+        "members": 503390,
+        "favorites": 4761,
+        "episodes": 24,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Beastars 2nd Season",
+        "score": 7.75,
+        "members": 490940,
+        "favorites": 2305,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Nanatsu no Taizai: Funnu no Shinpan",
+        "score": 6.57,
+        "members": 474893,
+        "favorites": 1598,
+        "episodes": 24,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Jaku-Chara Tomozaki-kun",
+        "score": 7.1,
+        "members": 437543,
+        "favorites": 2030,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Ore dake Haireru Kakushi Dungeon",
+        "score": 6.27,
+        "members": 435367,
+        "favorites": 1811,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Shin Evangelion Movie:||",
+        "score": 8.58,
+        "members": 420437,
+        "favorites": 8242,
+        "episodes": 1,
+        "status": "Finished Airing",
+        "genres": [
+            "Award Winning",
+            "Drama",
+            "Sci-Fi",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Kemono Jihen",
+        "score": 7.36,
+        "members": 418291,
+        "favorites": 2351,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Supernatural"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Tenkuu Shinpan",
+        "score": 6.68,
+        "members": 377209,
+        "favorites": 2083,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Horror",
+            "Mystery",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+        "score": 6.32,
+        "members": 318419,
+        "favorites": 890,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Hataraku Saibou!!",
+        "score": 7.38,
+        "members": 298681,
+        "favorites": 618,
+        "episodes": 8,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Log Horizon: Entaku Houkai",
+        "score": 7.07,
+        "members": 266332,
+        "favorites": 661,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Yuru Camp\u25b3 Season 2",
+        "score": 8.5,
+        "members": 251868,
+        "favorites": 3193,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Slice of Life"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Hataraku Saibou Black",
+        "score": 7.51,
+        "members": 243605,
+        "favorites": 470,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "season": "winter",
+        "year": 2021
+    },
+    {
+        "title": "Gintama: The Final",
+        "score": 9.05,
+        "members": 180884,
+        "favorites": 4637,
+        "episodes": 1,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "season": "winter",
+        "year": 2021
+    }
+]

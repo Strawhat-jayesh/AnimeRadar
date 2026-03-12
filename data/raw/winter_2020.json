@@ -1,0 +1,367 @@
+[
+    {
+        "title": "Haikyuu!! To the Top",
+        "score": 8.37,
+        "members": 1042568,
+        "favorites": 5530,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Sports"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Jibaku Shounen Hanako-kun",
+        "score": 7.82,
+        "members": 681481,
+        "favorites": 12729,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Supernatural"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Dorohedoro",
+        "score": 8.04,
+        "members": 625998,
+        "favorites": 10146,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Horror"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Darwin's Game",
+        "score": 7.2,
+        "members": 610326,
+        "favorites": 2717,
+        "episodes": 11,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "score": 7.5,
+        "members": 597626,
+        "favorites": 3931,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+        "score": 8.6,
+        "members": 531996,
+        "favorites": 3963,
+        "episodes": 1,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Kyokou Suiri",
+        "score": 6.92,
+        "members": 531062,
+        "favorites": 1458,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Mystery",
+            "Romance",
+            "Supernatural"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Ishuzoku Reviewers",
+        "score": 7.4,
+        "members": 502842,
+        "favorites": 9617,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Erotica"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Plunderer",
+        "score": 6.65,
+        "members": 487892,
+        "favorites": 1644,
+        "episodes": 24,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Romance",
+            "Ecchi"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Id:Invaded",
+        "score": 7.81,
+        "members": 423796,
+        "favorites": 3096,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Mystery",
+            "Sci-Fi",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Xian Wang de Richang Shenghuo",
+        "score": 7.31,
+        "members": 393063,
+        "favorites": 2244,
+        "episodes": 15,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+        "score": 7.34,
+        "members": 391328,
+        "favorites": 1196,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Eizouken ni wa Te wo Dasu na!",
+        "score": 8.13,
+        "members": 367396,
+        "favorites": 4522,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Award Winning",
+            "Comedy"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Haikyuu!! Riku vs. Kuu",
+        "score": 7.84,
+        "members": 343332,
+        "favorites": 655,
+        "episodes": 2,
+        "status": "Finished Airing",
+        "genres": [
+            "Sports"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Goblin Slayer: Goblin's Crown",
+        "score": 7.26,
+        "members": 322631,
+        "favorites": 502,
+        "episodes": 1,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Somali to Mori no Kamisama",
+        "score": 7.81,
+        "members": 316595,
+        "favorites": 1811,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Toaru Kagaku no Railgun T",
+        "score": 8.14,
+        "members": 264710,
+        "favorites": 3327,
+        "episodes": 25,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Isekai Quartet 2",
+        "score": 7.36,
+        "members": 254961,
+        "favorites": 265,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Murenase! Seton Gakuen",
+        "score": 6.9,
+        "members": 217487,
+        "favorites": 553,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy",
+            "Ecchi"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Infinite Dendrogram",
+        "score": 6.2,
+        "members": 198250,
+        "favorites": 308,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Nekopara",
+        "score": 6.72,
+        "members": 188179,
+        "favorites": 864,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Slice of Life"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Magia Record: Mahou Shoujo Madoka\u2606Magica Gaiden",
+        "score": 6.84,
+        "members": 176972,
+        "favorites": 951,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama",
+            "Suspense"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Overflow",
+        "score": 7.23,
+        "members": 161440,
+        "favorites": 1609,
+        "episodes": 8,
+        "status": "Finished Airing",
+        "genres": [
+            "Hentai"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Runway de Waratte",
+        "score": 7.54,
+        "members": 138781,
+        "favorites": 440,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama"
+        ],
+        "season": "winter",
+        "year": 2020
+    },
+    {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
+        "score": 6.5,
+        "members": 118222,
+        "favorites": 84,
+        "episodes": 1,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "season": "winter",
+        "year": 2020
+    }
+]
