@@ -1,0 +1,361 @@
+[
+    {
+        "title": "Jujutsu Kaisen",
+        "score": 8.51,
+        "members": 2983273,
+        "favorites": 95527,
+        "episodes": 24,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Award Winning",
+            "Supernatural"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "score": 8.54,
+        "members": 1756871,
+        "favorites": 13487,
+        "episodes": 1,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Supernatural"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Haikyuu!! To the Top Part 2",
+        "score": 8.56,
+        "members": 918587,
+        "favorites": 6479,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Sports"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Tonikaku Kawaii",
+        "score": 7.84,
+        "members": 829699,
+        "favorites": 10466,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+        "score": 7.46,
+        "members": 674005,
+        "favorites": 1966,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Josee to Tora to Sakana-tachi",
+        "score": 8.38,
+        "members": 521054,
+        "favorites": 7120,
+        "episodes": 1,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Yuukoku no Moriarty",
+        "score": 8.17,
+        "members": 502486,
+        "favorites": 8300,
+        "episodes": 11,
+        "status": "Finished Airing",
+        "genres": [
+            "Mystery",
+            "Suspense"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Akudama Drive",
+        "score": 7.56,
+        "members": 486641,
+        "favorites": 4036,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Suspense"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Majo no Tabitabi",
+        "score": 7.56,
+        "members": 453534,
+        "favorites": 4385,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
+        "score": 7.26,
+        "members": 393129,
+        "favorites": 1251,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Munou na Nana",
+        "score": 7.16,
+        "members": 374896,
+        "favorites": 1737,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Suspense"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+        "score": 6.71,
+        "members": 347890,
+        "favorites": 1476,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Romance"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+        "score": 6.52,
+        "members": 330870,
+        "favorites": 712,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Noblesse",
+        "score": 6.9,
+        "members": 325530,
+        "favorites": 1291,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Supernatural"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Higurashi no Naku Koro ni Gou",
+        "score": 7.21,
+        "members": 301406,
+        "favorites": 1646,
+        "episodes": 24,
+        "status": "Finished Airing",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Suspense"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Kamisama ni Natta Hi",
+        "score": 6.8,
+        "members": 283092,
+        "favorites": 1632,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Burn the Witch",
+        "score": 7.14,
+        "members": 281261,
+        "favorites": 746,
+        "episodes": 3,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Kami-tachi ni Hirowareta Otoko",
+        "score": 6.96,
+        "members": 251066,
+        "favorites": 1175,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Fantasy",
+            "Slice of Life"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Maoujou de Oyasumi",
+        "score": 7.95,
+        "members": 246186,
+        "favorites": 2548,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Adachi to Shimamura",
+        "score": 7.08,
+        "members": 210088,
+        "favorites": 1648,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Girls Love"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Golden Kamuy 3rd Season",
+        "score": 8.43,
+        "members": 197662,
+        "favorites": 1621,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Kuma Kuma Kuma Bear",
+        "score": 7.23,
+        "members": 186305,
+        "favorites": 1052,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Tian Guan Cifu",
+        "score": 8.42,
+        "members": 174991,
+        "favorites": 6150,
+        "episodes": 11,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Hanyou no Yashahime: Sengoku Otogizoushi",
+        "score": 6.69,
+        "members": 132030,
+        "favorites": 656,
+        "episodes": 24,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2020
+    },
+    {
+        "title": "Ikebukuro West Gate Park",
+        "score": 6.87,
+        "members": 127991,
+        "favorites": 372,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "season": "fall",
+        "year": 2020
+    }
+]

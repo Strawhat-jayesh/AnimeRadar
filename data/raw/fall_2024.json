@@ -1,0 +1,370 @@
+[
+    {
+        "title": "Dandadan",
+        "score": 8.43,
+        "members": 935677,
+        "favorites": 15325,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Supernatural"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+        "score": 8.43,
+        "members": 480745,
+        "favorites": 6431,
+        "episodes": 16,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Suspense"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Blue Lock vs. U-20 Japan",
+        "score": 7.51,
+        "members": 326692,
+        "favorites": 2303,
+        "episodes": 14,
+        "status": "Finished Airing",
+        "genres": [
+            "Sports"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Ao no Hako",
+        "score": 8.16,
+        "members": 317793,
+        "favorites": 4287,
+        "episodes": 25,
+        "status": "Finished Airing",
+        "genres": [
+            "Romance",
+            "Sports"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+        "score": 8.67,
+        "members": 284550,
+        "favorites": 3643,
+        "episodes": 14,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Chi. Chikyuu no Undou ni Tsuite",
+        "score": 8.71,
+        "members": 279474,
+        "favorites": 7046,
+        "episodes": 25,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+        "score": 8.26,
+        "members": 253578,
+        "favorites": 1532,
+        "episodes": 25,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Uzumaki",
+        "score": 5.67,
+        "members": 242371,
+        "favorites": 1240,
+        "episodes": 4,
+        "status": "Finished Airing",
+        "genres": [
+            "Avant Garde",
+            "Drama",
+            "Horror",
+            "Suspense"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+        "score": 7.89,
+        "members": 212367,
+        "favorites": 1175,
+        "episodes": 15,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+        "score": 7.02,
+        "members": 197506,
+        "favorites": 1099,
+        "episodes": 16,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Seirei Gensouki 2",
+        "score": 6.87,
+        "members": 195605,
+        "favorites": 1283,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Ranma \u00bd (2024)",
+        "score": 7.98,
+        "members": 164027,
+        "favorites": 1245,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance",
+            "Ecchi"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Nageki no Bourei wa Intai shitai",
+        "score": 7.06,
+        "members": 161507,
+        "favorites": 542,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Raise wa Tanin ga Ii",
+        "score": 7.18,
+        "members": 150508,
+        "favorites": 790,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Romance"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "One Piece Fan Letter",
+        "score": 9.02,
+        "members": 146654,
+        "favorites": 2543,
+        "episodes": 1,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+        "score": 7.58,
+        "members": 145667,
+        "favorites": 687,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Hitoribocchi no Isekai Kouryaku",
+        "score": 6.56,
+        "members": 145068,
+        "favorites": 531,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Kimi wa Meido-sama.",
+        "score": 7.06,
+        "members": 137308,
+        "favorites": 485,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Kami no Tou: Koubou-sen",
+        "score": 6.88,
+        "members": 136353,
+        "favorites": 278,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Maou 2099",
+        "score": 7.41,
+        "members": 135935,
+        "favorites": 406,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Dragon Ball Daima",
+        "score": 7.57,
+        "members": 134064,
+        "favorites": 926,
+        "episodes": 20,
+        "status": "Finished Airing",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+        "score": 7.34,
+        "members": 131982,
+        "favorites": 698,
+        "episodes": 13,
+        "status": "Finished Airing",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+        "score": 7.44,
+        "members": 123466,
+        "favorites": 321,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Kekkon suru tte, Hontou desu ka",
+        "score": 7.12,
+        "members": 120298,
+        "favorites": 364,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Romance"
+        ],
+        "season": "fall",
+        "year": 2024
+    },
+    {
+        "title": "Sword Art Online Alternative: Gun Gale Online II",
+        "score": 7.14,
+        "members": 117404,
+        "favorites": 334,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action"
+        ],
+        "season": "fall",
+        "year": 2024
+    }
+]
