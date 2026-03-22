@@ -1,23 +1,9 @@
 [
     {
-        "title": "Cyberpunk: Edgerunners",
-        "score": 8.62,
-        "members": 1025161,
-        "favorites": 34246,
-        "episodes": 10,
-        "status": "Finished Airing",
-        "genres": [
-            "Action",
-            "Sci-Fi"
-        ],
-        "season": "summer",
-        "year": 2022
-    },
-    {
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
         "score": 8.05,
-        "members": 782478,
-        "favorites": 8402,
+        "members": 785293,
+        "favorites": 8407,
         "episodes": 13,
         "status": "Finished Airing",
         "genres": [
@@ -30,8 +16,8 @@
     {
         "title": "Yofukashi no Uta",
         "score": 7.94,
-        "members": 756842,
-        "favorites": 10381,
+        "members": 760085,
+        "favorites": 10425,
         "episodes": 13,
         "status": "Finished Airing",
         "genres": [
@@ -44,8 +30,8 @@
     {
         "title": "Overlord IV",
         "score": 8.06,
-        "members": 626925,
-        "favorites": 7462,
+        "members": 628608,
+        "favorites": 7465,
         "episodes": 13,
         "status": "Finished Airing",
         "genres": [
@@ -59,8 +45,8 @@
     {
         "title": "Lycoris Recoil",
         "score": 8.14,
-        "members": 587358,
-        "favorites": 9749,
+        "members": 589001,
+        "favorites": 9764,
         "episodes": 13,
         "status": "Finished Airing",
         "genres": [
@@ -72,8 +58,8 @@
     {
         "title": "Made in Abyss: Retsujitsu no Ougonkyou",
         "score": 8.6,
-        "members": 532457,
-        "favorites": 6888,
+        "members": 533783,
+        "favorites": 6896,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
@@ -89,8 +75,8 @@
     {
         "title": "Hataraku Maou-sama!!",
         "score": 6.65,
-        "members": 522240,
-        "favorites": 4719,
+        "members": 523153,
+        "favorites": 4720,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
@@ -102,9 +88,9 @@
     },
     {
         "title": "Kanojo, Okarishimasu 2nd Season",
-        "score": 6.71,
-        "members": 470826,
-        "favorites": 4866,
+        "score": 6.7,
+        "members": 471692,
+        "favorites": 4867,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
@@ -117,8 +103,8 @@
     {
         "title": "Isekai Ojisan",
         "score": 7.75,
-        "members": 422413,
-        "favorites": 2314,
+        "members": 423612,
+        "favorites": 2321,
         "episodes": 13,
         "status": "Finished Airing",
         "genres": [
@@ -131,8 +117,8 @@
     {
         "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen",
         "score": 7.74,
-        "members": 403535,
-        "favorites": 2155,
+        "members": 404789,
+        "favorites": 2157,
         "episodes": 11,
         "status": "Finished Airing",
         "genres": [
@@ -146,8 +132,8 @@
     {
         "title": "Dr. Stone: Ryuusui",
         "score": 8.12,
-        "members": 379270,
-        "favorites": 943,
+        "members": 380799,
+        "favorites": 946,
         "episodes": 1,
         "status": "Finished Airing",
         "genres": [
@@ -158,23 +144,9 @@
         "year": 2022
     },
     {
-        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
-        "score": 8.04,
-        "members": 342655,
-        "favorites": 1309,
-        "episodes": 12,
-        "status": "Finished Airing",
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
-        "season": "summer",
-        "year": 2022
-    },
-    {
         "title": "Mamahaha no Tsurego ga Motokano datta",
         "score": 6.72,
-        "members": 335754,
+        "members": 336604,
         "favorites": 1593,
         "episodes": 12,
         "status": "Finished Airing",
@@ -188,8 +160,8 @@
     {
         "title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu",
         "score": 6.79,
-        "members": 333832,
-        "favorites": 2189,
+        "members": 334868,
+        "favorites": 2193,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
@@ -202,8 +174,8 @@
     {
         "title": "Isekai Meikyuu de Harem wo",
         "score": 6.53,
-        "members": 294587,
-        "favorites": 2208,
+        "members": 295292,
+        "favorites": 2217,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
@@ -218,7 +190,7 @@
     {
         "title": "Kuro no Shoukanshi",
         "score": 7.01,
-        "members": 290083,
+        "members": 291198,
         "favorites": 1158,
         "episodes": 12,
         "status": "Finished Airing",
@@ -232,8 +204,8 @@
     {
         "title": "Engage Kiss",
         "score": 6.78,
-        "members": 275364,
-        "favorites": 1287,
+        "members": 276334,
+        "favorites": 1293,
         "episodes": 13,
         "status": "Finished Airing",
         "genres": [
@@ -247,8 +219,8 @@
     {
         "title": "Isekai Yakkyoku",
         "score": 7.26,
-        "members": 269032,
-        "favorites": 999,
+        "members": 270094,
+        "favorites": 998,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
@@ -260,8 +232,8 @@
     {
         "title": "Kumichou Musume to Sewagakari",
         "score": 7.74,
-        "members": 259016,
-        "favorites": 1174,
+        "members": 259545,
+        "favorites": 1175,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
@@ -273,8 +245,8 @@
     {
         "title": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
         "score": 6.32,
-        "members": 250027,
-        "favorites": 1421,
+        "members": 250881,
+        "favorites": 1423,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
@@ -286,26 +258,10 @@
         "year": 2022
     },
     {
-        "title": "Natsu e no Tunnel, Sayonara no Deguchi",
-        "score": 7.97,
-        "members": 245613,
-        "favorites": 2656,
-        "episodes": 1,
-        "status": "Finished Airing",
-        "genres": [
-            "Drama",
-            "Mystery",
-            "Romance",
-            "Supernatural"
-        ],
-        "season": "summer",
-        "year": 2022
-    },
-    {
         "title": "One Piece Film: Red",
-        "score": 7.81,
-        "members": 223933,
-        "favorites": 1732,
+        "score": 7.82,
+        "members": 224654,
+        "favorites": 1734,
         "episodes": 1,
         "status": "Finished Airing",
         "genres": [
@@ -322,8 +278,8 @@
     {
         "title": "Soredemo Ayumu wa Yosetekuru",
         "score": 7.01,
-        "members": 183216,
-        "favorites": 672,
+        "members": 183539,
+        "favorites": 673,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
@@ -336,7 +292,7 @@
     {
         "title": "Saikin Yatotta Maid ga Ayashii",
         "score": 6.56,
-        "members": 144971,
+        "members": 145352,
         "favorites": 532,
         "episodes": 11,
         "status": "Finished Airing",
@@ -350,13 +306,54 @@
     {
         "title": "Shadows House 2nd Season",
         "score": 8.02,
-        "members": 139001,
-        "favorites": 726,
+        "members": 139295,
+        "favorites": 725,
         "episodes": 12,
         "status": "Finished Airing",
         "genres": [
             "Fantasy",
             "Mystery"
+        ],
+        "season": "summer",
+        "year": 2022
+    },
+    {
+        "title": "Kakegurui Twin",
+        "score": 7.18,
+        "members": 128628,
+        "favorites": 360,
+        "episodes": 6,
+        "status": "Finished Airing",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Suspense"
+        ],
+        "season": "summer",
+        "year": 2022
+    },
+    {
+        "title": "RWBY: Hyousetsu Teikoku",
+        "score": 6.35,
+        "members": 119868,
+        "favorites": 689,
+        "episodes": 12,
+        "status": "Finished Airing",
+        "genres": [
+            "Action"
+        ],
+        "season": "summer",
+        "year": 2022
+    },
+    {
+        "title": "Yuru Camp\u25b3 Movie",
+        "score": 8.38,
+        "members": 94022,
+        "favorites": 472,
+        "episodes": 1,
+        "status": "Finished Airing",
+        "genres": [
+            "Slice of Life"
         ],
         "season": "summer",
         "year": 2022

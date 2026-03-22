@@ -41,7 +41,7 @@ def extract_fields(data, year, season):
 
     anime_list = []
 
-    for anime in data["data",]:
+    for anime in data["data"]:
         anime_info = {
             "title": anime.get("title"),
             "score": anime.get("score"),
