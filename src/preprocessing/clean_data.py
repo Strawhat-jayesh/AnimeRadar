@@ -1,7 +1,7 @@
 import ast
 import pandas as pd
 
-df = pd.read_csv("data/combined_raw.csv")
+df = pd.read_csv("data/cleaned/combined_raw.csv")
 
 #removing rows with missing scores
 df = df.dropna(subset=["score"])
@@ -25,5 +25,4 @@ df["genres"] = df["genres"].apply(ast.literal_eval)
 #reset index
 df = df.reset_index(drop=True)
 
-df.to_csv("data/combined_clean.csv", index=False)
-
+df.to_csv("data/cleaned/combined_clean.csv", index=False)
