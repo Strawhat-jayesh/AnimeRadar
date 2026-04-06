@@ -102,7 +102,7 @@ Tasks:
 - Generate top anime list
 
 Responsible:
-Sai + Jarred
+Sai + Apoorva
 
 ---
 
@@ -114,7 +114,7 @@ Tasks:
 - Implement filtering logic
 
 Responsible:
-Sai + Jarred + Apoorva
+Sai + Jarred 
 
 ---
 
@@ -140,8 +140,7 @@ Tasks:
 - Rating vs popularity scatter plots
 
 Responsible:
-we will decide later.
-
+Jayesh.
 ---
 
 # Technologies Used
